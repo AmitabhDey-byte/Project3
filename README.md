@@ -1,4 +1,3 @@
-[NetFlix.csv](https://github.com/user-attachments/files/26854515/NetFlix.csv)# Netflix Data Analysis
 
 ## Overview
 
